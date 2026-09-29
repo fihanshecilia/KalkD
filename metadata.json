@@ -1,0 +1,6 @@
+{
+  "name": "KalkD - Aplikasi Android Siswa & Kalkulator",
+  "description": "Aplikasi Android KalkD lengkap dengan BottomNavigation, Room Database CRUD, Retrofit API, Kalkulator, dan Manajemen Profil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
